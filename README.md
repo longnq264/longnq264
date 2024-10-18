@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Long
 
 
 **longnq264/longnq264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
