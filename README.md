@@ -7,7 +7,7 @@ I'm an aspiring **Front-end developer** from Vietnam 🇻🇳, currently working
 - 👯 I’m looking to collaborate on **front-end projects** to gain hands-on experience while continuously learning about **backend** development.
 - 🤔 I’m seeking internship opportunities where I can apply my skills, learn from experienced developers, and grow as a professional.
 - 💬 Ask me about **React**, **JavaScript**, or anything related to the basics of web development! I'm always excited to learn something new.
-- 📫 How to reach me: [Email me](mailto:longhb2642002@gmail.com) or connect with me on [LinkedIn](https://www.instagram.com/_lfat/).
+- 📫 How to reach me: [Email me](mailto:longhb2642002@gmail.com) or connect with me on [Instagram](https://www.instagram.com/_lfat/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I love to stay active with gym workouts 🏋️‍♂️ and boxing 🥊.
 
