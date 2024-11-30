@@ -2,14 +2,14 @@
 
 <h3 align="left">Summary</h3>
 
-I'm an aspiring **Front-end developer** from Vietnam 🇻🇳, currently working towards becoming a **Full-stack developer** in the future. I'm passionate about web development and always open to learning new technologies to improve my skills.
+I'm an aspiring **Front-end developer**, currently working towards becoming a **Full-stack developer** in the future. I'm passionate about web development and always open to learning new technologies to improve my skills.
 
 - 🔭 I’m currently building my knowledge in **React**, **JavaScript**, and **CSS**.
 - 🌱 I’m eager to learn more about **Redux**, **TypeScript**, and backend technologies like **Node.js** as I aim for full-stack development.
 - 👯 I’m looking to collaborate on **front-end projects** to gain hands-on experience while continuously learning about **backend** development.
 - 🤔 I’m seeking internship opportunities where I can apply my skills, learn from experienced developers, and grow as a professional.
 - 💬 Ask me about **React**, **JavaScript**, or anything related to the basics of web development! I'm always excited to learn something new.
-- 📫 How to reach me: [Email me](mailto:longhb2642002@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/longnq264/).
+- 📫 How to reach me: [Email me](mailto:longanh2622@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/longnq264/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I love to stay active with gym workouts 🏋️‍♂️ and boxing 🥊.
 
